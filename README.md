@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/210f3371-bf6c-4510-875d-2286bb202add)
+
 # Text_Compression_Algorithms
 
 This is a graphical user interface (GUI) application built with Tkinter that demonstrates several common data compression techniques. 
