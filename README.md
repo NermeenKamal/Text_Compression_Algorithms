@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/210f3371-bf6c-4510-875d-2286bb202add)
+![image](https://github.com/user-attachments/assets/1ff1e242-0949-4ff9-a6a0-21156bedded5)
 
 # Text_Compression_Algorithms
 
