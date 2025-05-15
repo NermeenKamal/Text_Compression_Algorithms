@@ -14,9 +14,13 @@ Users can input data, select a compression method, and view the resulting output
 5. **RLE Compression**: Compresses input text using Run-Length Encoding (RLE).
 6. **RLE Decompression**: Decompresses the data compressed using RLE.
 7. **Shannon-Fano Compression**: Compresses the input text using the Shannon-Fano algorithm.
-8. **Huffman Compression**: Compresses the input text using the Huffman algorithm.
-9. **LZW Compression**: Compresses the input text using the Lempel-Ziv-Welch (LZW) algorithm.
-10. **Arithmetic Coding**: Compresses the input text using arithmetic coding.
+8. **Shannon-Fano Decompression**: Decompresses the input text using the Shannon-Fano algorithm.
+9. **Huffman Compression**: Compresses the input text using the Huffman algorithm.
+10. **Huffman Decompression**: Decompresses the input text using the Huffman algorithm.
+11. **LZW Compression**: Compresses the input text using the Lempel-Ziv-Welch (LZW) algorithm.
+12. **LZW Decompression**: Decompresses the input text using the Lempel-Ziv-Welch (LZW) algorithm.
+13. **Arithmetic Coding**: Compresses the input text using arithmetic coding.
+14. **Arithmetic Decoding**: Decompresses the input text using arithmetic coding.
 
 ## Features
 
